@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Inyoung Oh's website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Inyoung Oh"
+description              : &description "Graduate student at Gwangju Institute of Science and Technology"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "http://inyoungoh.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Inyoung Oh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Graduate student at Gwangju Institute of Science and Technology"
+  location         : #"Earth"
+  employer         : 
+  uri              : "https://scholar.google.co.kr/citations?user=e3h5YtAAAAAJ&hl=en"
+  email            : "deanoh90@gist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
